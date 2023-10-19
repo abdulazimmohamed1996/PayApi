@@ -1,0 +1,224 @@
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.exe
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.deps.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.runtimeconfig.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.xml
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Dapper.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Npgsql.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.AssemblyReference.cache
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfoInputs.cache
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfo.cs
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CoreCompileInputs.cache
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.PayArabic.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PayArabic.API.props
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PayArabic.API.props
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PayArabic.API.props
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\scopedcss\bundle\PayArabic.API.styles.css
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CopyComplete
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\refint\PayArabic.API.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.xml
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.genruntimeconfig.cache
+D:\Projects\PayArabic\APIProject\PayArabic.API\obj\Debug\net6.0\ref\PayArabic.API.dll
+D:\Projects\PayArabic\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.staticwebassets.runtime.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.Development.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.staticwebassets.runtime.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.exe
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.deps.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.runtimeconfig.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.xml
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Dapper.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\MySqlConnector.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Npgsql.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.AssemblyReference.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.GeneratedMSBuildEditorConfig.editorconfig
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfoInputs.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfo.cs
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CoreCompileInputs.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cs
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.PayArabic.API.Microsoft.AspNetCore.StaticWebAssets.props
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PayArabic.API.props
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PayArabic.API.props
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PayArabic.API.props
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.pack.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.build.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.development.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\scopedcss\bundle\PayArabic.API.styles.css
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CopyComplete
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\refint\PayArabic.API.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.xml
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.genruntimeconfig.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\ref\PayArabic.API.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.Development.json
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.json
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.staticwebassets.runtime.json
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.exe
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.deps.json
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.runtimeconfig.json
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.pdb
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.xml
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Dapper.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\MySqlConnector.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Npgsql.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.dll
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.pdb
+A:\projects\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.pdb
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.AssemblyReference.cache
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfoInputs.cache
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfo.cs
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CoreCompileInputs.cache
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cs
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cache
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.PayArabic.API.Microsoft.AspNetCore.StaticWebAssets.props
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PayArabic.API.props
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PayArabic.API.props
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PayArabic.API.props
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.pack.json
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.build.json
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.development.json
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\scopedcss\bundle\PayArabic.API.styles.css
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CopyComplete
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.dll
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\refint\PayArabic.API.dll
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.xml
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.pdb
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.genruntimeconfig.cache
+A:\projects\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\ref\PayArabic.API.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.Development.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\appsettings.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.staticwebassets.runtime.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.exe
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.deps.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.runtimeconfig.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.API.xml
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Dapper.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\MySqlConnector.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Npgsql.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.DAO.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\bin\Debug\net6.0\PayArabic.Core.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.AssemblyReference.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfoInputs.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.AssemblyInfo.cs
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CoreCompileInputs.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cs
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.MvcApplicationPartsAssemblyInfo.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.PayArabic.API.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PayArabic.API.props
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PayArabic.API.props
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PayArabic.API.props
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.pack.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.build.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\staticwebassets.development.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\scopedcss\bundle\PayArabic.API.styles.css
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.csproj.CopyComplete
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\refint\PayArabic.API.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.xml
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\PayArabic.API.genruntimeconfig.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.API\obj\Debug\net6.0\ref\PayArabic.API.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Z3p/2cfW/WUSUTpt8H0/BKJIXo7phNIin6ypm5AMTOw=",
+  "Source": "PayArabic.API",
+  "BasePath": "_content/PayArabic.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PayArabic.API\\wwwroot",
+      "Source": "PayArabic.API",
+      "ContentRoot": "A:\\Pro_Angular\\APIProject\\APIProject\\PayArabic.API\\wwwroot\\",
+      "BasePath": "_content/PayArabic.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "A:\\Pro_Angular\\APIProject\\APIProject\\PayArabic.API\\wwwroot\\uploads\\Deposit\\Deposit_4_638193390788711681_card.jpg",
+      "SourceId": "PayArabic.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Pro_Angular\\APIProject\\APIProject\\PayArabic.API\\wwwroot\\",
+      "BasePath": "_content/PayArabic.API",
+      "RelativePath": "uploads/Deposit/Deposit_4_638193390788711681_card.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Deposit\\Deposit_4_638193390788711681_card.jpg"
+    },
+    {
+      "Identity": "A:\\Pro_Angular\\APIProject\\APIProject\\PayArabic.API\\wwwroot\\uploads\\Invoice\\Invoice_2_638182596464890801_card.jpg",
+      "SourceId": "PayArabic.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Pro_Angular\\APIProject\\APIProject\\PayArabic.API\\wwwroot\\",
+      "BasePath": "_content/PayArabic.API",
+      "RelativePath": "uploads/Invoice/Invoice_2_638182596464890801_card.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Invoice\\Invoice_2_638182596464890801_card.jpg"
+    }
+  ]
+}

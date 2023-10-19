@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayArabic.Core", "PayArabic.Core\PayArabic.Core.csproj", "{1455305B-9CF4-4DFE-ACBD-29389B34EB85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayArabic.DAO", "PayArabic.DAO\PayArabic.DAO.csproj", "{A35187AC-3B01-4840-9F7C-E652275A6A3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayArabic.API", "PayArabic.API\PayArabic.API.csproj", "{3311888F-E27F-449C-9D85-CF9FAE2E8CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayArabic.Services", "PayArabic.Services\PayArabic.Services.csproj", "{BD4FA376-8699-4606-BB54-AF553D587210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1455305B-9CF4-4DFE-ACBD-29389B34EB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1455305B-9CF4-4DFE-ACBD-29389B34EB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1455305B-9CF4-4DFE-ACBD-29389B34EB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1455305B-9CF4-4DFE-ACBD-29389B34EB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35187AC-3B01-4840-9F7C-E652275A6A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35187AC-3B01-4840-9F7C-E652275A6A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35187AC-3B01-4840-9F7C-E652275A6A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35187AC-3B01-4840-9F7C-E652275A6A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3311888F-E27F-449C-9D85-CF9FAE2E8CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3311888F-E27F-449C-9D85-CF9FAE2E8CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3311888F-E27F-449C-9D85-CF9FAE2E8CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3311888F-E27F-449C-9D85-CF9FAE2E8CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4FA376-8699-4606-BB54-AF553D587210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4FA376-8699-4606-BB54-AF553D587210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4FA376-8699-4606-BB54-AF553D587210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4FA376-8699-4606-BB54-AF553D587210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0418DBDC-278A-4EC5-B504-F83E2DCEF5D5}
+	EndGlobalSection
+EndGlobal

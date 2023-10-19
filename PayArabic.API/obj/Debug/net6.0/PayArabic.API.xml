@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PayArabic.API</name>
+    </assembly>
+    <members>
+        <member name="T:PayArabic.API.Extensions.StartupServices">
+            <summary>
+            Zein: Register all dependency injection for all dao
+            </summary>
+        </member>
+    </members>
+</doc>

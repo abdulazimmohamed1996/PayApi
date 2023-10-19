@@ -1,0 +1,60 @@
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.AssemblyReference.cache
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfoInputs.cache
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfo.cs
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CoreCompileInputs.cache
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.deps.json
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.dll
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.dll
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CopyComplete
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.dll
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\refint\PayArabic.DAO.dll
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.pdb
+D:\Projects\PayArabic\APIProject\PayArabic.DAO\obj\Debug\net6.0\ref\PayArabic.DAO.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.deps.json
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.AssemblyReference.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.GeneratedMSBuildEditorConfig.editorconfig
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfoInputs.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfo.cs
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CoreCompileInputs.cache
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CopyComplete
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\refint\PayArabic.DAO.dll
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.pdb
+A:\New folder (2)\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\ref\PayArabic.DAO.dll
+A:\projects\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.deps.json
+A:\projects\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.dll
+A:\projects\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.pdb
+A:\projects\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.dll
+A:\projects\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.pdb
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.AssemblyReference.cache
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfoInputs.cache
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfo.cs
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CoreCompileInputs.cache
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CopyComplete
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.dll
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\refint\PayArabic.DAO.dll
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.pdb
+A:\projects\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\ref\PayArabic.DAO.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.deps.json
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.DAO.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\bin\Debug\net6.0\PayArabic.Core.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.AssemblyReference.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfoInputs.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.AssemblyInfo.cs
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CoreCompileInputs.cache
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.csproj.CopyComplete
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\refint\PayArabic.DAO.dll
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\PayArabic.DAO.pdb
+A:\Pro_Angular\APIProject\APIProject\PayArabic.DAO\obj\Debug\net6.0\ref\PayArabic.DAO.dll
